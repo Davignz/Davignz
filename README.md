@@ -1,14 +1,15 @@
-# **E aí, eu sou o Davi!** 🙋🏽‍♂️ Bem-vindo ao meu perfil!
-* Cursando Programação de Jogos Digitais 🕹️
-* Estudando HTML, CSS, Javascript e C# 📘
-* Pretendo me tornar Dev Front-end 👾
+# **<E aí, eu sou o Davi!/>** 🙋🏽‍♂️
+### º Cursando Programação de Jogos Digitais 🕹️
+### º Estudando HTML, CSS, Javascript e C# 📘
+### º Pretendo me tornar Dev Front-end 👾
+### º Rumo ao próximo nível 🚀
 
 ## 
 
 <div align="center">
   <a href="https://github.com/davignz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davignz&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davignz&langs_count=5&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davignz&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davignz&langs_count=5&layout=compact&theme=nightowl">
 
 </div>
   
@@ -29,5 +30,8 @@
 </div>
   
 ##
-  
+
+
 ![Snake animation](https://github.com/davignz/davignz/blob/output/github-contribution-grid-snake.svg)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/davignz/github-readme-quotes)
+
