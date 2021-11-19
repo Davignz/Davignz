@@ -31,6 +31,5 @@
 
 
 ![Snake animation](https://github.com/davignz/davignz/blob/output/github-contribution-grid-snake.svg)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/davignz/github-readme-quotes)
 <br>
 <br>
