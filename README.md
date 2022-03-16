@@ -1,5 +1,5 @@
 # **<E aí, eu sou o Davi!/>** 🙋🏽‍♂️
-### º Cursando Programação de Jogos Digitais 🕹️
+### º Cursando Programação de Jogos Digitais e Desenvolvimento de Sistemas🕹️
 ### º Estudando HTML, CSS, Javascript e C# 📘
 ### º Pretendo me tornar Dev Front-end 👾
 ### º Rumo ao próximo nível 🚀
