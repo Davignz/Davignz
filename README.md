@@ -1,6 +1,5 @@
 # **<E aí, eu sou o Davi!/>** 🙋🏽‍♂️
-### • Cursando Programação de Jogos Digitais e Desenvolvimento de Sistemas🕹️
-### • Estudando HTML, CSS, Javascript e C# 📘
+### • Técnico Programação de Jogos Digitais e Desenvolvimento de Sistemas🕹️
 ### • Dev Front-end 👾
 ### • Rumo ao próximo nível 🚀
 
